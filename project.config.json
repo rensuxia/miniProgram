@@ -5,6 +5,7 @@
   },
   "setting": {
     "bundle": false,
+    "checkSiteMap": false,
     "userConfirmedBundleSwitch": false,
     "urlCheck": true,
     "scopeDataCheck": false,
