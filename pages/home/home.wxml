@@ -1,3 +1,5 @@
 <!--pages/home/home.wxml-->
 <text class="title">hello word 凯丽</text>
 <button size="mini">点击</button>
+<view>知识点1</view>
+<view>内容：哈哈哈</view>
