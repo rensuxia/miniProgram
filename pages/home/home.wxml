@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text class="title">hello word 凯丽</text>
+<button size="mini">点击</button>
